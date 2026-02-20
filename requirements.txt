@@ -1,0 +1,11 @@
+flask
+flask-cors
+google-generativeai
+sentence-transformers
+huggingface_hub
+arxiv
+scikit-learn
+numpy
+python-dotenv
+streamlit
+requests
